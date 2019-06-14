@@ -6,7 +6,7 @@ Note: code can be executed at www.codeskulptor.org since it uses simplegui which
 
 Week 1:
 Solitaire Mancala 
-http://www.codeskulptor.org/#user46_txV0G1prh8IvXlp.py
+http://www.codeskulptor.org/#user46_DYuMRb9iIBWFYxK.py
 
 
 Week 2: 
