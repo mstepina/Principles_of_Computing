@@ -33,4 +33,11 @@ Zombie Apocalypse
 http://www.codeskulptor.org/#user46_VOg3a6naiN2K0Du.py
 
 
-Weeks 7: 
+Week 7: 
+Word Wrangler
+http://www.codeskulptor.org/#user46_Plsx1JlHTgncGKk.py
+
+
+Week 8:
+Tic-Tac-Toe (Mini-max)
+http://www.codeskulptor.org/#user46_Ob3Y9y8SemMK9Nh.py
