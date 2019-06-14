@@ -14,21 +14,23 @@ Week 2:
 http://www.codeskulptor.org/#user46_PVoA6iJKNh8FhzP.py
 
 
-Week 3 project: 
+Week 3: 
 Tic-Tac-Toe (Monte Carlo)
 http://www.codeskulptor.org/#user46_KtAvgUHXDYe4FVR.py        
 
 
-Week 4 project: 
+Week 4: 
+Planner for Yahtzee
+http://www.codeskulptor.org/#user46_cTZo7zIImAMdxET.py
+
+Week 5: 
+Cookie Clicker Simulator
+http://www.codeskulptor.org/#user46_oC4Ohl1dJLauwAT.py
 
 
-
-Week 5 project: 
-
-
-
-Week 6 project: 
+Week 6: 
+Zombie Apocalypse
+http://www.codeskulptor.org/#user46_VOg3a6naiN2K0Du.py
 
 
-
-Weeks 7 and 8 projects: 
+Weeks 7: 
